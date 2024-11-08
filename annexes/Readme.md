@@ -58,7 +58,7 @@ Lorsqu'on additionne deux nombres binaires, il est possible que la somme d'une c
   ```
   25  (11001)
 + 39  (100111)
----------
+  ---------
   64  (1000000)
   ```
 
